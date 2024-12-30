@@ -38,12 +38,7 @@ To run the main script that prints the Git and Python versions, execute the foll
 python src/main.py
 ```
 
-## Running Tests
 
-To run the tests, you can use the following command:
-```
-python -m unittest discover -s tests
-```
 
 ## License
 
